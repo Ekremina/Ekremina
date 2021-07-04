@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on projects to improve my skills ...
 - 📫 How to reach me 
 LinkedIn: http://linkedin.com/in/ekremina-arik
-Instagram: https://www.instagram.com/ekremina/
 ...
 
 <!---
