@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="html" src="https://img.shields.io/badge/html%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="css" src="https://img.shields.io/badge/CSS%20-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
 <img align="left" alt="react" src="https://img.shields.io/badge/react-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
-<img align="left" alt="nodejs" src="https://img.shields.io/badge/nodejsd-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
+<img align="left" alt="nodejs" src="https://img.shields.io/badge/nodejs-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
 <img align="left" alt="python" src="https://img.shields.io/badge/pyhton%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
 <br>
 <br>
